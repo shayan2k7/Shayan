@@ -22,40 +22,12 @@ Hey there! Shayan this side. A practicing frontend developer. I focus on clean l
 ## 🛠️ Tech & Tools
 
 <div align="center">
-  <table>
-    <tr>
-      <td><strong>Version Control</strong></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=git,github" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Prototyping</strong></td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="48" height="48" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Backend & Auth</strong></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=firebase" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Database & Auth</strong></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=supabase" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Languages & Frameworks</strong></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=supabase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </div>
-
 ---
 
 <div align="center">
