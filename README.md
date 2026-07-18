@@ -5,9 +5,9 @@
 <p><em>Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 
-[![Instagram](https://img.shields.io/badge/Connect-Instagram-E4405F?style=social&logo=instagram)](https://instagram.com/shayanfaisal)
-[![Email](https://img.shields.io/badge/Build-Email-D14836?style=social&logo=gmail)](mailto:shayanfaisal240@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=social&logo=vercel)](https://altf4shayan.vercel.app)
+[![Instagram](https://img.shields.io/badge/Connect!-Instagram-E4405F?style=social&logo=instagram)](https://instagram.com/shayanfaisal)
+[![Email](https://img.shields.io/badge/Build!-Email-D14836?style=social&logo=gmail)](mailto:shayanfaisal240@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View!-Portfolio-000000?style=social&logo=vercel)](https://altf4shayan.vercel.app)
 
 
 ---
@@ -36,7 +36,6 @@ Hey there! Shayan this side. A practicing frontend developer. I focus on clean l
 
 
 
-## 🐍 Snake Game
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -46,7 +45,7 @@ Hey there! Shayan this side. A practicing frontend developer. I focus on clean l
 
 ## 📬 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://altf4shayan.vercel.app)
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://altf4shayan.vercel.app)
 [![Instagram](https://img.shields.io/badge/Connect-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shayanfaisal)
 [![Email](https://img.shields.io/badge/Build-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shayanfaisal240@gmail.com)
 
