@@ -22,11 +22,17 @@ Hey there! Shayan this side. A practicing frontend developer. I focus on clean l
 ## 🛠️ Tech & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=firebase" />
-  <img src="https://skillicons.dev/icons?i=supabase" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="48" height="48" title="Framer" />
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
 </div>
 
 ---
