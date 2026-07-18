@@ -28,6 +28,7 @@ Hey there! Shayan this side. A practicing frontend developer. I focus on clean l
   <img src="https://skillicons.dev/icons?i=supabase" />
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </div>
+
 ---
 
 <div align="center">
